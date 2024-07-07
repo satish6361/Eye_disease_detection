@@ -11,8 +11,7 @@ This project implements an ensemble model combining ResNet50, VGG19, and Efficie
 - [Web Application](#web-application)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
