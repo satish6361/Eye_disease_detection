@@ -60,14 +60,12 @@ Navigate to the frontend directory:
 ```bash
 cd frontend
 
-Install frontend dependencies:'
+Install frontend dependencies:
 
-```bash
 npm install
 
 Start the React development server:
 
-```bash
 npm start
 
 
