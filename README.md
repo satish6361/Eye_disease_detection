@@ -52,3 +52,22 @@ A user-friendly web application built using the MERN stack (MongoDB, Express, Re
    ```bash
    git clone https://github.com/yourusername/eye-image-classification.git
    cd eye-image-classification
+
+### Frontend Setup
+
+Navigate to the frontend directory:
+
+```bash
+cd frontend
+
+Install frontend dependencies:'
+
+```bash
+npm install
+
+Start the React development server:
+
+```bash
+npm start
+
+
